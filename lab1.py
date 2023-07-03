@@ -3,5 +3,9 @@ def calc_age():
   year = int(input("Please Enter the year of birth:"))
   age = current_year - year
   print ("Your age is :", age)
- 
+ def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()
+
   
